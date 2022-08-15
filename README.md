@@ -1,4 +1,4 @@
-# TCC_DSA
+# Análise de Sentimentos das Eleições de 2022
 TCC Data Science Usp- Esalq
 
 A análise de sentimentos é uma técnica de natural language processing (NLP) usada para classificar elementos textuais, normalmente classificados em positivos, negativos e neutros, Feldman (2013). Essa análise é particularmente útil para capturar a percepção do público geral em relação a produtos, eventos, movimentos políticos e campanhas de marketing (Cambria et al., 2017). 
